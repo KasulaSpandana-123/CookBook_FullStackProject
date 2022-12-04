@@ -6,7 +6,7 @@ Project Demo video
 This website allows you to get the recipe details based on ingredient or dish name.
 
 Team Details:
-K.Spandana(20WH1A6628)
-K.Supriya(20WH1A6649)
-S. Sindhuja(20WH1A622)
-A. Vani(20WH1A6650)
+1. K.Spandana(20WH1A6628)
+2. K.Supriya(20WH1A6649)
+3. S. Sindhuja(20WH1A622)
+4. A. Vani(20WH1A6650)
